@@ -1,5 +1,5 @@
 %define upstream_name	 Algorithm-Graphs-TransitiveClosure
-%define upstream_version 2009040901
+%define upstream_version 2009110901
 
 Name:		    perl-%{upstream_name}
 Version:	    %perl_convert_version %{upstream_version}
